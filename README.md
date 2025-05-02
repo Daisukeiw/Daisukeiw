@@ -1,13 +1,12 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=145DFF&width=435&lines=%E2%9B%A9%EF%B8%8F+Vitor+Iwamoto+)](https://git.io/typing-svg)
 
-**`Estudante de Programação`**
+**`Programming Student`**
 
- Tenho 17 anos e nasci no Japão. Estou fazendo o ensino médio na ETEC Zona Leste, com o curso técnico em Desenvolvimento de Sistemas. 
-
+Hello! I am Vitor Iwamoto, and I am 17 years old. I was born in Japan and moved to Brazil. Currently, I am attending High School in the ETEC Zona Leste (technical school), where I am pursuing a course in System Development.
 
 ---
 
-### 🤖 Linguagens e Tecnologias que estou aprendendo
+### 🤖 Languages and Technologies I'm Learning
 
 <img 
     align="left" 
@@ -62,7 +61,7 @@
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
