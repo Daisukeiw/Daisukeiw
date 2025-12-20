@@ -2,7 +2,7 @@
 
 **`Programming Student`**
 
-Hello! I am Vitor Iwamoto, and I am 17 years old. I was born in Japan and moved to Brazil. Currently, I am attending High School in the ETEC Zona Leste (technical school), where I am pursuing a course in System Development.
+Hello! I am Vitor Iwamoto, and I am 18 years old. I was born in Japan and moved to Brazil. Currently, I am attending High School in the ETEC Zona Leste (technical school), where I am pursuing a course in System Development.
 
 ---
 
