@@ -4,8 +4,8 @@
 
 Hello! I'm Vitor Daisuke Iwamoto (Daisuke). I was born in Japan and moved to Brazil.
 
-🎓 Studying Systems Analysis and Development (AMS) at Fatec Zona Leste — 2026 to 2027
-🏫 Systems Development Technician (AMS) from Etec Zona Leste — 2023 to 2025
+- 🎓 Studying Systems Analysis and Development (AMS) at Fatec Zona Leste — 2026 to 2027
+- 🏫 Systems Development Technician (AMS) from Etec Zona Leste — 2023 to 2025
 ---
 
 ### 🤖 Languages and Technologies I'm Learning
