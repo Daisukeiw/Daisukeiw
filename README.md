@@ -2,8 +2,10 @@
 
 **`Programming Student`**
 
-Hello! I am Vitor Iwamoto, and I am 18 years old. I was born in Japan and moved to Brazil. Currently, I am attending High School in the ETEC Zona Leste (technical school), where I am pursuing a course in System Development.
+Hello! I'm Vitor Daisuke Iwamoto (Daisuke). I was born in Japan and moved to Brazil.
 
+🎓 Studying Systems Analysis and Development (AMS) at Fatec Zona Leste — 2026 to 2027
+🏫 Systems Development Technician (AMS) from Etec Zona Leste — 2023 to 2025
 ---
 
 ### 🤖 Languages and Technologies I'm Learning
